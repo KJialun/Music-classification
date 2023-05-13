@@ -1,6 +1,6 @@
 # Document description
 - Basic of signal processing demonstrate how do we extract features from audio .wav file by using MFCC 
-- Model_trainning contains the code about data preprocessing and network trainning 
+- Model_trainning_MFCC contains the code about data preprocessing by using MFCC and different network trainning 
 > Dataset can be access from <https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification>\\
 > > First: run datapreprocessing.ipynb to generate dara_10.json file 
 
