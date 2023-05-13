@@ -4,7 +4,7 @@
 > Dataset can be access from <https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification>\\
 > > First: run datapreprocessing.ipynb to generate dara_10.json file 
 
-> > Second: run Genre_classifier_NN.ipynb to train classifier Neuron Network model  
+> > Second: run Genre_classifier_NN.ipynb to train Neuron Network model  
 
 > > Third  : Gio  CNN 
 
