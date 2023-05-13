@@ -6,7 +6,9 @@
 
 > > Second: run Genre_classifier_NN.ipynb to train classifier NeroNetwork model 
 
-> > Third : Gio your part
+> > Third  : Gio  CNN 
+
+> > Fourth : Gio  LSTM
 # Below you can find a step-by-step guide to set up your environment.
 - Install Anaconda: Download and install Anaconda from the link below (choose the right version for your OS): <https://www.anaconda.com/download/>
 - Open anaconda command prompt
