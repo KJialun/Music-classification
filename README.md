@@ -6,7 +6,7 @@
 # Below you can find a step-by-step guide to set up your environment.
 - Install Anaconda: Download and install Anaconda from the link below (choose the right version for your OS): <https://www.anaconda.com/download/>
 - Open anaconda command prompt
-- For datapreprocessing we will use librosa library ,Create new anaconda environment named "preprocessing"  : 
+- For data preprocessing we will use librosa library ,Create new anaconda environment named "preprocessing"  : 
 ```
 conda create --name preprocessing 
 ``` 
