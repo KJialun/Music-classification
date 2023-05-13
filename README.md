@@ -1,5 +1,9 @@
-# Music-classification
-> ### Below you can find a step-by-step guide to set up your environment.
+# Document description
+- Basic of signal processing demonstrate how do we extract features from audio .wav file by using MFCC 
+- Model_trainning contains the code about data preprocessing and network trainning 
+> Dataset can be access from <https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification>
+
+# Below you can find a step-by-step guide to set up your environment.
 - Install Anaconda: Download and install Anaconda from the link below (choose the right version for your OS): <https://www.anaconda.com/download/>
 - Open anaconda command prompt
 - Create new anaconda environment named "preprocessing" you will use this environment to do datapreprocessing : 
