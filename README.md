@@ -8,7 +8,7 @@
 - Open anaconda command prompt
 - Create new anaconda environment named "preprocessing" you will use this environment to do datapreprocessing : 
 ```
-conda create --name preprocessing
+conda create --name preprocessing ##SSS
 ``` 
 - Enter the newly created environment:
 ``` 
