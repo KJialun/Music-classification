@@ -6,9 +6,9 @@
 
 > > Second: run Genre_classifier_NN.ipynb to train Neuron Network (NN) model  
 
-> > Third: run *.ipynb to train the new NN model with Dropouts and L2-Norm (regularizer) to fix overfitting
+> > Third: run EnhancedNN_MusicClassification.ipynb to train the new NN model with Dropouts and L2-Norm (regularizer) to fix overfitting
 
-> > Fourth: run *.ipynb to train the Convolutional Neural Network (CNN) --> change (Gio  CNN)
+> > Fourth: run CNN_MusicClassification.ipynb to train the Convolutional Neural Network (CNN) --> change (Gio  CNN)
 
 > > Fifth: run *.ipynb to train the Long Short-Term Memory Recursive Neural Network (LSTM-RNN) --> change (Gio  LSTM)
 # Below you can find a step-by-step guide to set up your environment.
