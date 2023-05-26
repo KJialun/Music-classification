@@ -5,6 +5,7 @@
 > > First: you need to run the `datapreprocessing.ipynb` notebook to generate the `data_10.json` file. 
 
 > > Second: you can use the `data_10.json` file created in the first step to train different Neural Network model by running the corresponding script .
+> > (Different extraction methods can be found in data_preprocess_other_extraction_methods.py)
 # Below you can find a step-by-step guide to set up your environment.
 - Install Anaconda: Download and install Anaconda from the link below (choose the right version for your OS): <https://www.anaconda.com/download/>
 - Open anaconda command prompt
